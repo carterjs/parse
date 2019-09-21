@@ -1,12 +1,9 @@
 {
   "name": "@carterjs/parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper function for parsing the content of inline and external scripts",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/carterjs/parse.git"
-  },
+  "repository": "git://github.com/carterjs/parse.git",
   "author": "Carter Schmalzle",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
