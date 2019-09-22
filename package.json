@@ -5,9 +5,6 @@
   "main": "index.js",
   "repository": "git://github.com/carterjs/parse.git",
   "author": "Carter Schmalzle",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/carterjs"
-  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/carterjs/parse/issues"
